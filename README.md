@@ -50,7 +50,7 @@ Frameworks - Libraries
 
 		-for BE: Node JS/Express/Knex, morgan, helmet
 		-for FE React JS, Redux/Context, ReactStrap, Styled Components, Axios, React-Router, Google Fonts, Font Awesome
--for Marketing, LESS, Html, GoogleFonts, Font Awesome 
+		-for Marketing, LESS, Html, GoogleFonts, Font Awesome 
 	
  
 - Do APIs require you to contact its maintainer to gain access? No. 
