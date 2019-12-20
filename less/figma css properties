@@ -1,0 +1,3281 @@
+/* MOBILE */
+
+position: absolute;
+width: 905px;
+height: 1252px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 500px;
+height: 1143px;
+
+background: #C4C4C4;
+
+
+/* Dialogs / Simple / Body */
+
+position: absolute;
+width: 280px;
+height: 300px;
+
+
+
+/* Surface */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Surface Master Shape */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* 2dp — Elevation */
+box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Suface — Dialogs */
+background: #FFFFFF;
+
+
+/* Content */
+
+position: absolute;
+width: 280px;
+height: 300px;
+left: 0px;
+top: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Surface Master Shape */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Suface — Dialogs */
+background: #FFFFFF;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Suface — Dialogs */
+background: #FFFFFF;
+
+
+/* Subtitle 1 */
+
+position: absolute;
+left: 8.57%;
+right: 8.57%;
+top: 13.7%;
+bottom: 38.3%;
+
+/* Subtitle 1 / Roboto Regular */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.15px;
+
+/* Black — High Emphasis */
+color: rgba(0, 0, 0, 0.87);
+mix-blend-mode: normal;
+
+
+/* MOBILE */
+
+position: absolute;
+width: 269px;
+height: 77px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 400px;
+height: 31px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 400px;
+height: 31px;
+
+background: #C4C4C4;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Copyright Dad Jokes 2020. All rights reserveed. */
+
+position: absolute;
+width: 297px;
+height: 31px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* App Bar / Top App Bar / Regular / Flat */
+
+position: absolute;
+width: 500px;
+height: 56px;
+
+
+
+/* Surface */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 500* */
+background: #6202EE;
+
+
+/* App Bar / Elements / Right Icons */
+
+position: absolute;
+height: 56px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #979797;
+
+
+/* Icon 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 112px;
+top: calc(50% - 24px/2);
+
+
+
+/* Icon 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 16px;
+top: calc(50% - 24px/2);
+
+
+
+/* Mask */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 25%;
+
+/* Black — Inactive */
+background: rgba(0, 0, 0, 0.54);
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 66.67%;
+bottom: 25%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 45.83%;
+bottom: 45.83%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 25%;
+bottom: 66.67%;
+
+background: #DADADA;
+
+
+/*  */
+
+position: absolute;
+width: 39px;
+height: 40px;
+left: 461px;
+top: 16px;
+
+font-family: Font Awesome 5 Free;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: 0.15px;
+
+color: #000000;
+
+
+
+/* Title */
+
+position: absolute;
+height: 24px;
+left: 72px;
+right: 16px;
+top: calc(50% - 24px/2);
+
+/* H6 / Roboto Medium */
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+letter-spacing: 0.15px;
+
+/* White — High Emphasis */
+color: #FFFFFF;
+
+
+/* Arrow 1 */
+
+position: absolute;
+width: 278.65px;
+height: 0px;
+
+border: 5px solid #000000;
+box-sizing: border-box;
+transform: rotate(3.95deg);
+
+
+/* hamburger will have:  About Contact Us */
+
+position: absolute;
+width: 115px;
+height: 82px;
+
+font-family: Font Awesome 5 Free;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.15px;
+
+color: #000000;
+
+
+
+/* Cards / Full Image / Overlay */
+
+position: absolute;
+width: 483px;
+height: 259px;
+
+
+
+/* ✱ / Base / Surface Shape / Surface Master Shape */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* 2dp — Elevation */
+box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Content */
+
+position: absolute;
+height: 258px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+
+
+/* ✱ / Base / Surface Shape / Surface Master Shape */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* 2dp — Elevation */
+box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Image */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -1px;
+
+
+
+/* Image */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(Image.png);
+
+
+/* Image Treatments / Overlay */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: normal;
+
+
+/* White (Tonal) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.32;
+
+
+/* Secondary (Tonal) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 500* */
+background: #01A39D;
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* Primary (Tonal) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 500* */
+background: #6202EE;
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* Black (Tonal) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.32;
+
+
+/* Primary — 500 (Screen) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 500* */
+background: #6202EE;
+mix-blend-mode: screen;
+
+
+/* Primary — 400 (Screen) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 400 */
+background: #7F22FD;
+mix-blend-mode: screen;
+
+
+/* Primary — 300 (Screen) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 300 */
+background: #9E54FC;
+mix-blend-mode: screen;
+
+
+/* Primary — 200 (Screen) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 200 */
+background: #BB86FC;
+mix-blend-mode: screen;
+
+
+/* Primary — 100 (Screen) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 100 */
+background: #D7B7FD;
+mix-blend-mode: screen;
+
+
+/* Primary — 50 (Screen) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 50 */
+background: #F2E7FE;
+mix-blend-mode: screen;
+
+
+/* Secondary — 600 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 600 */
+background: #018786;
+mix-blend-mode: multiply;
+
+
+/* Secondary — 700 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 700 */
+background: #00696B;
+mix-blend-mode: multiply;
+
+
+/* Secondary — 800 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 800 */
+background: #004B4F;
+mix-blend-mode: multiply;
+
+
+/* Secondary — 900 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 900 */
+background: #002F33;
+mix-blend-mode: multiply;
+
+
+/* Primary — 600 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 600 */
+background: #4B01D1;
+mix-blend-mode: multiply;
+
+
+/* Primary — 700 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 700 */
+background: #3700B3;
+mix-blend-mode: multiply;
+
+
+/* Primary — 800 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 800 */
+background: #280096;
+mix-blend-mode: multiply;
+
+
+/* Primary — 900 (Multiply) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 900 */
+background: #190078;
+mix-blend-mode: multiply;
+
+
+/* Secondary — Dark Gradient 500-900 (Color) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: color;
+
+
+/* Light */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+
+
+/* Secondary — Dark Gradient (Color) */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 500* */
+background: #01A39D;
+mix-blend-mode: normal;
+
+
+/* Dark */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+transform: rotate(180deg);
+
+
+/* Mask */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+transform: rotate(180deg);
+
+
+/* Secondary — Dark Gradient (Color) */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+/* Secondary — 900 */
+background: #002F33;
+mix-blend-mode: normal;
+transform: rotate(180deg);
+
+
+/* Primary — Dark Gradient 500-900 (Color) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: color;
+
+
+/* Light */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+
+
+/* Secondary — Dark Gradient (Color) */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 500* */
+background: #6202EE;
+mix-blend-mode: normal;
+
+
+/* Dark */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+transform: rotate(180deg);
+
+
+/* Mask */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+transform: rotate(180deg);
+
+
+/* Secondary — Dark Gradient (Color) */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+/* Primary — 900 */
+background: #190078;
+mix-blend-mode: normal;
+transform: rotate(180deg);
+
+
+/* Black — Dark Gradient (Color) */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%);
+mix-blend-mode: color;
+
+
+/* Secondary — Light Gradient (Color) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: color;
+
+
+/* Dark */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+transform: rotate(180deg);
+
+
+/* Mask */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+transform: rotate(180deg);
+
+
+/* Secondary — Light Gradient (Color) */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+/* Secondary — 400 */
+background: #02BEB2;
+mix-blend-mode: normal;
+transform: rotate(180deg);
+
+
+/* Light */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+
+
+/* Secondary — Light Gradient (Color) */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary — 50 */
+background: #86FFEA;
+mix-blend-mode: normal;
+
+
+/* Primary — Light Gradient (Color) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: color;
+
+
+/* Dark */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+transform: rotate(180deg);
+
+
+/* Mask */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+transform: rotate(180deg);
+
+
+/* Secondary — Light Gradient (Color) */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 100%;
+bottom: -100%;
+
+/* Primary — 400 */
+background: #7F22FD;
+mix-blend-mode: normal;
+transform: rotate(180deg);
+
+
+/* Light */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 100%);
+
+
+/* Secondary — Light Gradient (Color) */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 50 */
+background: #F2E7FE;
+mix-blend-mode: normal;
+
+
+/* White — Light Gradient (Color) */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: -0.83%;
+bottom: 0%;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%);
+mix-blend-mode: normal;
+
+
+/* Buttons */
+
+position: absolute;
+width: 183px;
+height: 36px;
+left: 8px;
+bottom: 8px;
+
+
+
+/* Button 1 */
+
+position: absolute;
+height: 36px;
+left: 0%;
+right: 51.91%;
+top: calc(50% - 36px/2);
+
+
+
+/* Surface */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(98, 2, 238, 0.0001);
+
+
+/* Container */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #DADADA;
+border-radius: 4px;
+
+
+/* Cut 4 */
+
+position: absolute;
+visibility: hidden;
+width: 16px;
+height: 16px;
+left: 0px;
+bottom: -4.69px;
+
+background: #DADADA;
+transform: rotate(45deg);
+
+
+/* Cut 3 */
+
+position: absolute;
+visibility: hidden;
+width: 16px;
+height: 16px;
+right: -16.31px;
+bottom: -5px;
+
+background: #DADADA;
+transform: rotate(45deg);
+
+
+/* Cut 1 */
+
+position: absolute;
+visibility: hidden;
+width: 16px;
+height: 16px;
+left: 0px;
+top: -11.31px;
+
+background: #DADADA;
+transform: rotate(45deg);
+
+
+/* Cut 2 */
+
+position: absolute;
+visibility: hidden;
+width: 16px;
+height: 16px;
+right: -16px;
+top: -11.31px;
+
+background: #DADADA;
+transform: rotate(45deg);
+
+
+/* Label */
+
+position: absolute;
+height: 16px;
+left: 8px;
+right: 8px;
+top: calc(50% - 16px/2 - 0.4px);
+
+/* Button / Roboto Medium */
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+text-align: center;
+letter-spacing: 0.75px;
+text-transform: uppercase;
+
+/* White — High Emphasis */
+color: #FFFFFF;
+
+
+/* Header */
+
+position: absolute;
+height: 64px;
+left: 16px;
+right: 24px;
+top: calc(50% - 64px/2 + 39px);
+
+
+
+/* Body 2 */
+
+position: absolute;
+height: 20px;
+left: 0px;
+right: 0px;
+top: 42.68px;
+
+/* Body 2 / Roboto Regular */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: 0.25px;
+
+/* White — High Emphasis */
+color: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Headline 4 */
+
+position: absolute;
+height: 40px;
+left: 0px;
+right: 0px;
+top: -4px;
+
+/* H4 / Roboto Regular */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 40px;
+/* identical to box height */
+letter-spacing: 0.25px;
+
+/* White — High Emphasis */
+color: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Selected Overlay */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -1px;
+
+
+
+/* Overlay */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+opacity: 0.08;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 700 */
+background: #3700B3;
+
+
+/* Overlay */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Primary — 500* */
+border: 1px solid #6202EE;
+
+
+/* Icon /  Check Circle  / Fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 8px;
+top: 8px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Primary — 500* */
+background: #6202EE;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 27.42%;
+bottom: 29.17%;
+
+background: #DADADA;
+
+
+/* Dialogs / Simple / Body */
+
+position: absolute;
+width: 280px;
+height: 300px;
+
+
+
+/* Surface */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Surface Master Shape */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* 2dp — Elevation */
+box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Surface — Card */
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Suface — Dialogs */
+background: #FFFFFF;
+
+
+/* Content */
+
+position: absolute;
+width: 280px;
+height: 300px;
+left: 0px;
+top: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Surface Master Shape */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* ✱ / Base / Surface Shape / Atoms / Diamond */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Diamond */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Suface — Dialogs */
+background: #FFFFFF;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #5FD855;
+
+
+/* Corners */
+
+position: absolute;
+left: -12px;
+right: -12px;
+top: -12px;
+bottom: -12px;
+
+
+
+/* Cut 4 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+right: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* Cut 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Cut 4dp */
+
+position: absolute;
+visibility: hidden;
+left: 38.21%;
+right: 38.21%;
+top: 38.21%;
+bottom: 38.21%;
+
+background: #EE0202;
+
+
+/* Cut 8dp */
+
+position: absolute;
+visibility: hidden;
+left: 26.44%;
+right: 26.44%;
+top: 26.44%;
+bottom: 26.44%;
+
+background: #EE0202;
+
+
+/* Cut 14dp */
+
+position: absolute;
+left: 8.75%;
+right: 8.75%;
+top: 8.75%;
+bottom: 8.75%;
+
+background: #EE0202;
+
+
+/* ✱ / Base / Surface Shape / Atoms / Square */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Suface — Dialogs */
+background: #FFFFFF;
+
+
+/* Subtitle 1 */
+
+position: absolute;
+left: 8.57%;
+right: 8.57%;
+top: 13.7%;
+bottom: 38.3%;
+
+/* Subtitle 1 / Roboto Regular */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.15px;
+
+/* Black — High Emphasis */
+color: rgba(0, 0, 0, 0.87);
+mix-blend-mode: normal;

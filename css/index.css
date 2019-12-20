@@ -171,3 +171,18 @@ img {
     width: 90%;
   }
 }
+.back-splash {
+  background-image: url("https://images.unsplash.com/photo-1531854676938-4d5f9703df2e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-color: #cccccc;
+}
+.card-container {
+  margin: 30px 10px;
+}
+.media-container {
+  display: flex;
+  flex-flow: column nowrap;
+}
+.media-container h2 {
+  background: white;
+  border: 5px solid red;
+}
