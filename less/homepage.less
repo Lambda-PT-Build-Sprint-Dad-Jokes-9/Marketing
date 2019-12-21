@@ -17,3 +17,45 @@
         border: 5px solid red;
     }
 }
+
+.card-box {
+    display: flex;
+    
+    
+
+    .card-text {
+        display: flex;
+        align-items: flex-start;      
+        justify-content: flex-end;  
+        height: 150px;
+        width: 450px;
+        margin: 15% 5% 5% 50%;
+        flex-flow: column nowrap;
+       
+
+        h2, h3 {
+            color: white;
+            text-shadow:
+		
+		1px -1px 0 #000,
+		
+		1px 1px 0 #000;
+        }
+        h2 {
+            font-size: 3rem;
+            font-weight: 500;
+        }
+        h3 {
+            font-size: 2rem;
+        }
+        .app-btn {
+            background: black;
+            color: white;
+            margin: 10px 20px;
+            &:hover {
+                background: rgb(34, 34, 34);
+            }
+        }
+    }
+}
+
