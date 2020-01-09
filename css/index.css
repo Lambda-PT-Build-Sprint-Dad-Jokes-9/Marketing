@@ -309,6 +309,11 @@ img {
     flex-flow: row wrap;
   }
 }
+@media (min-width: 1450px) {
+  .about-container {
+    flex-flow: row nowrap;
+  }
+}
 .about-container .info-card-box {
   display: flex;
   flex-flow: column nowrap;
