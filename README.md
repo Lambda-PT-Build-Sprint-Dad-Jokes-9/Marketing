@@ -1,3 +1,49 @@
+To contribute to this project, please follow the guidelines in this readme.
+DadJokes Marketing Page is a static html website with some minimal javascript functionality. 
+The html and css is largely shared across the marketing pages, inheriting the same navbar, jumbotron, 
+and footer. Each page has a section that varies from the others, and if you want to add more 
+information to the marketing pages, make a new html file, copy the common layout html sections, and 
+build from there.
+
+
+The styling is compiled using less, so in your terminal, input  ``less-watch-compiler less css index.less`` to 
+get the compiler up and running.
+
+
+From there, the main file hosting the styling is the ``homepage.less`` file. 
+
+
+In the variables.less file, you can see the different media settings for responsive design.
+
+
+If you do add pages to the website, you will have to manually changes the settings in the burger.less file, 
+which contains the styling for the hamburger menu. The most pertinent setting to change is the 
+``.wrapper { height: 50px}`` section. For each new site you add to the burger menu, increase its height by 
+25px. To add the items in the hamburger menu, navigate to the <header> section, and locate the section 
+with the class “menu menu-off”, and add a div with the following format ``<div><a 
+href=”urlhere”>text</a></div>`` for each new link you wish to put there.
+
+
+The jumbotron and navbar uses a slightly customized version of material design. The div hosting the text 
+and app button are custom, and the styling can be found in the homepage.less file. Also, the hamburger 
+menu is customized as well, with the relevant files being burger.less and a small snippet of javascript in 
+the main.js file. See https://material.io/develop/web/components/cards/ for documentation on these 
+components.
+
+
+For the information cards used in the index and about-us pages, they use flexbox. It works well for 
+responsive text and will have no issue handling extra cards if you wish to add them. Use/change the 
+`features-info` and `info-container` classes to add/change feature cards in the main page,  and the 
+`features-container` and `about-container` classes  to add/change person cards in the about-us page.
+
+
+
+
+
+
+
+
+
 Product Vision Document
 
 - What problem does your app solve?
