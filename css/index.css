@@ -221,11 +221,41 @@ img {
   text-shadow: #0c0c0cc9 0px 2px 2px;
 }
 .card-box .card-text h2 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 600;
 }
+@media (min-width: 768px) {
+  .card-box .card-text h2 {
+    font-size: 3.5rem;
+  }
+}
+@media (min-width: 980px) {
+  .card-box .card-text h2 {
+    font-size: 3.9rem;
+  }
+}
+@media (min-width: 1450px) {
+  .card-box .card-text h2 {
+    font-size: 4.5rem;
+  }
+}
 .card-box .card-text h3 {
-  font-size: 2rem;
+  font-size: 1.6rem;
+}
+@media (min-width: 768px) {
+  .card-box .card-text h3 {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 980px) {
+  .card-box .card-text h3 {
+    font-size: 2.4rem;
+  }
+}
+@media (min-width: 1450px) {
+  .card-box .card-text h3 {
+    font-size: 2.8rem;
+  }
 }
 .card-box .card-text .app-btn {
   background: black;
@@ -236,8 +266,23 @@ img {
   background: #222222;
 }
 .card-box .card-text .sub-custom-mdc {
-  width: 200px;
+  width: 125px;
   line-height: 2rem;
+}
+@media (min-width: 768px) {
+  .card-box .card-text .sub-custom-mdc {
+    width: 230px;
+  }
+}
+@media (min-width: 980px) {
+  .card-box .card-text .sub-custom-mdc {
+    width: 330px;
+  }
+}
+@media (min-width: 1450px) {
+  .card-box .card-text .sub-custom-mdc {
+    width: 360px;
+  }
 }
 .features-info {
   margin: 40px auto;
