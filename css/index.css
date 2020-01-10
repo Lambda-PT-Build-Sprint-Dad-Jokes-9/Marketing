@@ -513,7 +513,7 @@ img {
 }
 .menu {
   font-size: 2em;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #4d4d4d;
 }
 .menu div {
@@ -574,7 +574,7 @@ img {
   position: absolute;
   background: inherit;
   left: 0;
-  content: '';
+  content: "";
   animation-duration: 300ms;
   animation-timing-function: ease-in-out;
 }
