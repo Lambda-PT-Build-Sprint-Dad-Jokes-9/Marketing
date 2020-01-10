@@ -267,21 +267,24 @@ img {
 }
 .card-box .card-text .sub-custom-mdc {
   width: 145px;
-  line-height: 2rem;
+  line-height: 1.8rem;
 }
 @media (min-width: 768px) {
   .card-box .card-text .sub-custom-mdc {
     width: 230px;
+    line-height: 2.3rem;
   }
 }
 @media (min-width: 980px) {
   .card-box .card-text .sub-custom-mdc {
     width: 330px;
+    line-height: 2.5rem;
   }
 }
 @media (min-width: 1450px) {
   .card-box .card-text .sub-custom-mdc {
     width: 360px;
+    line-height: 2.8rem;
   }
 }
 .features-info {
