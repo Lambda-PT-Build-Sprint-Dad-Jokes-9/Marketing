@@ -457,14 +457,9 @@ img {
 .contact-form .input-text:focus {
   outline: none;
 }
-.contact-form .input-text:focus + .label,
-.contact-form .input-text.not-empty + .label {
-  transform: translateY(-24px);
-}
 .contact-form .label {
   position: absolute;
   left: 20px;
-  bottom: 11px;
   font-family: 'Nunito', sans-serif;
   font-size: 18px;
   line-height: 26px;
@@ -472,7 +467,6 @@ img {
   color: #2b2b2b;
   background: #dddddd;
   cursor: text;
-  transition: transform 0.2s ease-in-out;
 }
 .contact-form .submit-btn {
   display: inline-block;
