@@ -15,18 +15,31 @@
   padding-right: 20px;
   font-size: 2rem;
 }
-
-.adaptive-main {
+.app-button-responsive {
+  
   @media @tablet {
+    height: 100px;
+    font-size: 3rem;
   }
   @media @desktop {
+    height: 100px;
+    font-size: 3rem;
   }
   @media @max {
+    height: 100px;
+    font-size: 3rem;
   }
 }
 
 .card-box {
   .flex;
+  cursor: initial;
+  @media @desktop {
+    height: 87vh;
+  }
+  @media @max {
+    height: 88vh;
+  }
 
   .card-text {
     .flex;
@@ -78,6 +91,21 @@
       background: black;
       color: white;
       margin: 10px 20px;
+      @media @tablet {
+        width: 90px!important;
+        height: 40px!important;
+        font-size: 1.4rem;
+      }
+      @media @desktop {
+        width: 100px!important;
+        height: 45px!important;
+        font-size: 1.6rem;
+      }
+      @media @max {
+        width: 115px!important;
+        height: 50px!important;
+        font-size: 1.8rem;
+      }
       &:hover {
         background: rgb(34, 34, 34);
       }
